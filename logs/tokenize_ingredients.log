@@ -1,0 +1,380 @@
+2018-06-13 07:52:32,940 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 07:52:32.938364, IsTestrun: True
+2018-06-13 07:52:59,615 - utils - INFO - Time taken to get Ingredients data from db: 0:00:26.674
+2018-06-13 12:32:11,777 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 12:32:11.766205, IsTestrun: True
+2018-06-13 12:32:23,602 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 12:32:23.600539, IsTestrun: True
+2018-06-13 12:32:34,184 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 12:32:34.181286, IsTestrun: True
+2018-06-13 12:44:27,945 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 12:44:27.941462, IsTestrun: True
+2018-06-13 12:47:27,762 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 12:47:27.759112, IsTestrun: True
+2018-06-13 12:52:59,114 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 12:52:59.110891, IsTestrun: True
+2018-06-13 12:56:29,794 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 12:56:29.791115, IsTestrun: True
+2018-06-13 12:56:40,431 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.637
+2018-06-13 13:07:24,021 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 13:07:24.017790, IsTestrun: True
+2018-06-13 13:12:05,521 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 13:12:05.518076, IsTestrun: True
+2018-06-13 13:12:28,520 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 13:12:28.516850, IsTestrun: True
+2018-06-13 13:17:51,556 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 13:17:51.543307, IsTestrun: True
+2018-06-13 13:18:37,748 - utils - INFO - Time taken to get Ingredients data from db: 0:00:46.191
+2018-06-13 13:18:41,014 - utils - INFO - Time taken to get recipes from db: 0:00:00.015, TotalRecord: 66
+2018-06-13 13:18:41,583 - utils - INFO - Total Recipes: 66, Total Ingredients: 0, DeletedCount: 0, InsertedCount: 0
+2018-06-13 13:18:41,595 - utils - INFO - Time taken for script to complete: 0:00:50.051829
+2018-06-13 13:18:45,906 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 13:18:45.904888, IsTestrun: True
+2018-06-13 13:20:19,331 - utils - INFO - Time taken to get Ingredients data from db: 0:01:33.423
+2018-06-13 13:20:22,407 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 66
+2018-06-13 13:20:22,973 - utils - INFO - Total Recipes: 66, Total Ingredients: 0, DeletedCount: 0, InsertedCount: 0
+2018-06-13 13:20:22,975 - utils - INFO - Time taken for script to complete: 0:01:37.070352
+2018-06-13 13:20:27,551 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 13:20:27.538832, IsTestrun: True
+2018-06-13 13:22:58,751 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 13:22:58.747976, IsTestrun: True
+2018-06-13 14:06:58,643 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 14:06:58.633693, IsTestrun: True
+2018-06-13 14:13:48,468 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 14:13:48.464925, IsTestrun: True
+2018-06-13 14:15:12,843 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 14:15:12.840091, IsTestrun: True
+2018-06-13 14:15:22,384 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.540
+2018-06-13 14:15:23,333 - utils - INFO - Time taken to get recipes from db: 0:00:00.024, TotalRecord: 66
+2018-06-13 14:22:51,125 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 14:22:51.122740, IsTestrun: True
+2018-06-13 14:22:56,782 - utils - INFO - Time taken to get Ingredients data from db: 0:00:05.656
+2018-06-13 14:32:41,917 - utils - INFO - Started cleansing process, Starttime: 2018-06-13 14:32:41.914273, IsTestrun: True
+2018-06-13 14:32:51,834 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.917
+2018-06-14 06:26:05,011 - utils - INFO - Started cleansing process, Starttime: 2018-06-14 06:26:05.005709, IsTestrun: True
+2018-06-14 06:26:15,960 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.916
+2018-06-14 06:26:16,850 - utils - INFO - Time taken to get recipes from db: 0:00:00.009, TotalRecord: 66
+2018-06-14 06:26:17,399 - utils - INFO - Total Recipes: 66, Total Ingredients: 0, DeletedCount: 0, InsertedCount: 0
+2018-06-14 06:26:17,406 - utils - INFO - Time taken for script to complete: 0:00:12.401189
+2018-06-14 06:26:54,656 - utils - INFO - Started cleansing process, Starttime: 2018-06-14 06:26:54.654570, IsTestrun: True
+2018-06-14 06:27:05,393 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.736
+2018-06-14 06:27:06,279 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 66
+2018-06-14 06:29:14,852 - utils - INFO - Started cleansing process, Starttime: 2018-06-14 06:29:14.850198, IsTestrun: True
+2018-06-14 06:29:23,715 - utils - INFO - Time taken to get Ingredients data from db: 0:00:08.862
+2018-06-14 06:29:24,617 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 66
+2018-06-14 06:32:53,341 - utils - INFO - Started cleansing process, Starttime: 2018-06-14 06:32:53.338741, IsTestrun: True
+2018-06-14 06:33:02,800 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.459
+2018-06-14 06:33:03,806 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 66
+2018-06-14 06:33:43,055 - utils - INFO - Started cleansing process, Starttime: 2018-06-14 06:33:43.051081, IsTestrun: True
+2018-06-14 06:33:48,807 - utils - INFO - Time taken to get Ingredients data from db: 0:00:05.751
+2018-06-14 06:33:49,697 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 66
+2018-06-14 06:55:12,302 - utils - INFO - Started cleansing process, Starttime: 2018-06-14 06:55:12.298817, IsTestrun: True
+2018-06-14 06:55:23,403 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.100
+2018-06-14 06:55:24,431 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 67
+2018-06-14 06:56:13,646 - utils - INFO - Started cleansing process, Starttime: 2018-06-14 06:56:13.643735, IsTestrun: True
+2018-06-14 06:56:24,056 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.410
+2018-06-14 06:56:25,061 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 67
+2018-06-18 12:21:23,254 - utils - INFO - Started cleansing process, Starttime: 2018-06-18 12:21:23.253179, IsTestrun: True
+2018-06-18 12:21:32,053 - utils - INFO - Time taken to get Ingredients data from db: 0:00:08.783
+2018-06-18 12:21:32,956 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 66
+2018-06-18 12:42:23,914 - utils - INFO - Total Recipes: 66, Total Ingredients: 0, DeletedCount: 0, InsertedCount: 0
+2018-06-18 12:42:23,923 - utils - INFO - Time taken for script to complete: 0:21:00.670510
+2018-06-19 06:02:49,499 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 06:02:49.496358, IsTestrun: True
+2018-06-19 06:02:59,363 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.832
+2018-06-19 06:03:00,264 - utils - INFO - Time taken to get recipes from db: 0:00:00.007, TotalRecord: 66
+2018-06-19 07:14:37,994 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 07:14:37.987039, IsTestrun: True
+2018-06-19 07:14:47,945 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.950
+2018-06-19 07:14:48,843 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 68
+2018-06-19 07:15:23,879 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 07:15:23.876995, IsTestrun: True
+2018-06-19 07:15:34,030 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.150
+2018-06-19 07:15:34,960 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 68
+2018-06-19 07:19:44,546 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 07:19:44.541770, IsTestrun: True
+2018-06-19 07:19:53,322 - utils - INFO - Time taken to get Ingredients data from db: 0:00:08.775
+2018-06-19 07:19:54,326 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 70
+2018-06-19 07:22:47,717 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 07:22:47.714888, IsTestrun: True
+2018-06-19 07:22:57,084 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.367
+2018-06-19 07:22:57,924 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 70
+2018-06-19 08:55:34,289 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 08:55:34.286900, IsTestrun: True
+2018-06-19 08:55:42,911 - utils - INFO - Time taken to get Ingredients data from db: 0:00:08.622
+2018-06-19 08:55:43,810 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 70
+2018-06-19 09:21:50,340 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 09:21:50.334935, IsTestrun: True
+2018-06-19 09:21:59,470 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.130
+2018-06-19 09:22:00,472 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 70
+2018-06-19 09:23:27,497 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 09:23:27.494989, IsTestrun: True
+2018-06-19 09:23:38,320 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.822
+2018-06-19 09:23:39,216 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 70
+2018-06-19 09:25:19,367 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 09:25:19.365444, IsTestrun: True
+2018-06-19 09:25:29,087 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.719
+2018-06-19 09:25:30,016 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 70
+2018-06-19 09:29:32,963 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 09:29:32.960339, IsTestrun: True
+2018-06-19 09:29:42,989 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.025
+2018-06-19 09:29:43,865 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 70
+2018-06-19 09:47:38,421 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 09:47:38.418195, IsTestrun: True
+2018-06-19 09:47:46,306 - utils - INFO - Time taken to get Ingredients data from db: 0:00:07.884
+2018-06-19 09:47:47,213 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 10:17:15,087 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 10:17:15.082454, IsTestrun: True
+2018-06-19 10:17:19,629 - utils - INFO - Time taken to get Ingredients data from db: 0:00:04.541
+2018-06-19 10:17:20,817 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 10:17:31,056 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 10:17:31.053012, IsTestrun: True
+2018-06-19 10:17:35,131 - utils - INFO - Time taken to get Ingredients data from db: 0:00:04.075
+2018-06-19 10:17:36,308 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 10:19:33,629 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 10:19:33.626383, IsTestrun: True
+2018-06-19 10:19:37,987 - utils - INFO - Time taken to get Ingredients data from db: 0:00:04.357
+2018-06-19 10:19:39,604 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 10:22:03,004 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 10:22:03.000405, IsTestrun: True
+2018-06-19 10:22:07,382 - utils - INFO - Time taken to get Ingredients data from db: 0:00:04.377
+2018-06-19 10:22:08,456 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 10:28:42,626 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 10:28:42.617497, IsTestrun: True
+2018-06-19 10:28:50,743 - utils - INFO - Time taken to get Ingredients data from db: 0:00:08.116
+2018-06-19 10:28:51,824 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 10:44:57,682 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 10:44:57.680638, IsTestrun: True
+2018-06-19 10:45:07,395 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.712
+2018-06-19 10:45:08,455 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 10:47:15,385 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 10:47:15.381245, IsTestrun: True
+2018-06-19 10:47:24,923 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.537
+2018-06-19 10:47:25,825 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 10:50:46,696 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 10:50:46.694047, IsTestrun: True
+2018-06-19 10:50:55,368 - utils - INFO - Time taken to get Ingredients data from db: 0:00:08.672
+2018-06-19 10:50:56,275 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 10:52:10,942 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 10:52:10.937321, IsTestrun: True
+2018-06-19 10:52:20,958 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.016
+2018-06-19 10:52:21,886 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 11:28:21,401 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 11:28:21.399765, IsTestrun: True
+2018-06-19 11:28:31,184 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.782
+2018-06-19 11:28:32,090 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 11:29:25,780 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 11:29:25.777906, IsTestrun: True
+2018-06-19 11:29:35,581 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.801
+2018-06-19 11:29:36,545 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 11:30:25,747 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 11:30:25.745366, IsTestrun: True
+2018-06-19 11:30:39,178 - utils - INFO - Time taken to get Ingredients data from db: 0:00:13.431
+2018-06-19 11:30:40,073 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 11:33:59,226 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 11:33:59.224423, IsTestrun: True
+2018-06-19 11:34:09,589 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.362
+2018-06-19 11:34:10,519 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 71
+2018-06-19 11:51:27,413 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 11:51:27.403789, IsTestrun: True
+2018-06-19 11:51:32,161 - utils - INFO - Time taken to get Ingredients data from db: 0:00:04.747
+2018-06-19 11:51:33,327 - utils - INFO - Time taken to get recipes from db: 0:00:00.026, TotalRecord: 71
+2018-06-19 12:00:18,396 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 12:00:18.376564, IsTestrun: True
+2018-06-19 12:00:29,784 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.387
+2018-06-19 12:01:03,199 - utils - INFO - Time taken to get recipes from db: 0:00:01.552, TotalRecord: 124960
+2018-06-19 12:14:03,379 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 12:14:03.357666, IsTestrun: True
+2018-06-19 12:14:14,511 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.130
+2018-06-19 12:14:40,875 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 12:14:40.855524, IsTestrun: True
+2018-06-19 12:14:51,968 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.092
+2018-06-19 12:15:22,668 - utils - INFO - Time taken to get recipes from db: 0:00:01.614, TotalRecord: 124960
+2018-06-19 12:16:26,239 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 12:16:26.219036, IsTestrun: True
+2018-06-19 12:16:37,084 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.843
+2018-06-19 12:17:03,362 - utils - INFO - Time taken to get recipes from db: 0:00:01.553, TotalRecord: 124960
+2018-06-19 12:19:30,191 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 12:19:30.161303, IsTestrun: True
+2018-06-19 12:19:52,104 - utils - INFO - Time taken to get Ingredients data from db: 0:00:21.912
+2018-06-19 12:20:25,739 - utils - INFO - Time taken to get recipes from db: 0:00:01.580, TotalRecord: 124960
+2018-06-19 12:22:56,049 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 12:22:56.030905, IsTestrun: True
+2018-06-19 12:23:08,406 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.355
+2018-06-19 12:23:35,928 - utils - INFO - Time taken to get recipes from db: 0:00:01.557, TotalRecord: 124960
+2018-06-19 12:31:03,836 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 12:31:03.833115, IsTestrun: True
+2018-06-19 12:31:12,561 - utils - INFO - Time taken to get Ingredients data from db: 0:00:08.724
+2018-06-19 12:31:13,481 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 1
+2018-06-19 12:32:57,793 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 12:32:57.788979, IsTestrun: True
+2018-06-19 12:33:08,370 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.576
+2018-06-19 12:33:09,297 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 1
+2018-06-19 13:11:46,624 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 13:11:46.622026, IsTestrun: True
+2018-06-19 13:11:57,829 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.204
+2018-06-19 13:11:58,925 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 1
+2018-06-19 13:13:58,798 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 13:13:58.796595, IsTestrun: True
+2018-06-19 13:14:05,142 - utils - INFO - Time taken to get Ingredients data from db: 0:00:06.343
+2018-06-19 13:14:06,116 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 1
+2018-06-19 13:16:07,925 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 13:16:07.923213, IsTestrun: True
+2018-06-19 13:16:19,037 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.111
+2018-06-19 13:16:20,338 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 72
+2018-06-19 13:17:41,877 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 13:17:41.874713, IsTestrun: True
+2018-06-19 13:17:51,724 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.847
+2018-06-19 13:17:52,824 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 72
+2018-06-19 13:26:36,415 - utils - INFO - Started cleansing process, Starttime: 2018-06-19 13:26:36.413009, IsTestrun: True
+2018-06-19 13:26:45,383 - utils - INFO - Time taken to get Ingredients data from db: 0:00:08.967
+2018-06-19 13:26:46,386 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 73
+2018-06-20 06:43:48,987 - utils - INFO - Started cleansing process, Starttime: 2018-06-20 06:43:48.980827, IsTestrun: True
+2018-06-20 06:44:01,266 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.209
+2018-06-20 06:44:02,205 - utils - INFO - Time taken to get recipes from db: 0:00:00.014, TotalRecord: 73
+2018-06-20 07:14:12,003 - utils - INFO - Started cleansing process, Starttime: 2018-06-20 07:14:11.997241, IsTestrun: True
+2018-06-20 07:14:20,883 - utils - INFO - Time taken to get Ingredients data from db: 0:00:08.869
+2018-06-20 07:14:21,781 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 73
+2018-06-20 11:40:43,281 - utils - INFO - Started cleansing process, Starttime: 2018-06-20 11:40:43.271181, IsTestrun: True
+2018-06-20 11:45:11,860 - utils - INFO - Started cleansing process, Starttime: 2018-06-20 11:45:11.858426, IsTestrun: True
+2018-06-20 12:00:37,495 - utils - INFO - Started cleansing process, Starttime: 2018-06-20 12:00:37.487579, IsTestrun: True
+2018-06-21 06:28:59,799 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 06:28:59.787169, IsTestrun: True
+2018-06-21 06:29:12,584 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.765
+2018-06-21 06:29:29,828 - utils - INFO - Time taken to get recipes from db: 0:00:01.820, TotalRecord: 124960
+2018-06-21 06:38:59,910 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 06:38:59.899517, IsTestrun: True
+2018-06-21 06:39:12,948 - utils - INFO - Time taken to get Ingredients data from db: 0:00:13.037
+2018-06-21 06:39:23,042 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 06:39:23.031446, IsTestrun: True
+2018-06-21 06:39:35,872 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.829
+2018-06-21 06:39:54,128 - utils - INFO - Time taken to get recipes from db: 0:00:01.865, TotalRecord: 124960
+2018-06-21 07:16:58,729 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 07:16:58.717452, IsTestrun: True
+2018-06-21 07:17:20,668 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 07:17:20.657812, IsTestrun: True
+2018-06-21 07:17:34,345 - utils - INFO - Time taken to get Ingredients data from db: 0:00:13.675
+2018-06-21 07:17:51,543 - utils - INFO - Time taken to get recipes from db: 0:00:01.721, TotalRecord: 124960
+2018-06-21 07:31:05,524 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 07:31:05.512968, IsTestrun: True
+2018-06-21 07:31:20,040 - utils - INFO - Time taken to get Ingredients data from db: 0:00:14.514
+2018-06-21 07:31:38,133 - utils - INFO - Time taken to get recipes from db: 0:00:01.615, TotalRecord: 124960
+2018-06-21 07:49:50,347 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 07:49:50.335724, IsTestrun: True
+2018-06-21 07:50:02,361 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.013
+2018-06-21 07:50:19,938 - utils - INFO - Time taken to get recipes from db: 0:00:01.916, TotalRecord: 124960
+2018-06-21 07:54:53,884 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 07:54:53.872049, IsTestrun: True
+2018-06-21 07:55:00,762 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 07:55:00.751709, IsTestrun: True
+2018-06-21 07:55:13,133 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.370
+2018-06-21 07:55:31,120 - utils - INFO - Time taken to get recipes from db: 0:00:01.863, TotalRecord: 124960
+2018-06-21 08:03:04,660 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 08:03:04.649664, IsTestrun: True
+2018-06-21 08:03:16,294 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.633
+2018-06-21 08:03:33,926 - utils - INFO - Time taken to get recipes from db: 0:00:01.918, TotalRecord: 124960
+2018-06-21 08:08:03,027 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 08:08:03.009882, IsTestrun: True
+2018-06-21 08:08:18,934 - utils - INFO - Time taken to get Ingredients data from db: 0:00:15.906
+2018-06-21 08:08:36,516 - utils - INFO - Time taken to get recipes from db: 0:00:01.915, TotalRecord: 124960
+2018-06-21 10:24:22,309 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 10:24:22.298885, IsTestrun: True
+2018-06-21 10:24:33,830 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.478
+2018-06-21 10:24:51,329 - utils - INFO - Time taken to get recipes from db: 0:00:01.540, TotalRecord: 124960
+2018-06-21 10:31:45,767 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 10:31:45.756859, IsTestrun: True
+2018-06-21 10:31:55,197 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.429
+2018-06-21 10:32:12,698 - utils - INFO - Time taken to get recipes from db: 0:00:01.517, TotalRecord: 124960
+2018-06-21 10:38:59,385 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 10:38:59.373850, IsTestrun: True
+2018-06-21 10:39:08,685 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.299
+2018-06-21 10:39:26,944 - utils - INFO - Time taken to get recipes from db: 0:00:01.542, TotalRecord: 124960
+2018-06-21 10:49:39,916 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 10:48:37.146384, IsTestrun: True
+2018-06-21 10:52:57,643 - utils - INFO - Time taken to get Ingredients data from db: 0:03:15.175
+2018-06-21 10:54:31,127 - utils - INFO - Time taken to get recipes from db: 0:00:09.275, TotalRecord: 124960
+2018-06-21 10:56:03,021 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 10:56:02.999355, IsTestrun: True
+2018-06-21 10:56:15,822 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.790
+2018-06-21 10:56:38,870 - utils - INFO - Time taken to get recipes from db: 0:00:01.479, TotalRecord: 124960
+2018-06-21 10:58:31,024 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 10:58:31.002676, IsTestrun: True
+2018-06-21 10:58:43,200 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.174
+2018-06-21 10:59:06,672 - utils - INFO - Time taken to get recipes from db: 0:00:01.548, TotalRecord: 124960
+2018-06-21 11:01:18,235 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 11:01:18.202828, IsTestrun: True
+2018-06-21 11:01:29,141 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.905
+2018-06-21 11:01:52,210 - utils - INFO - Time taken to get recipes from db: 0:00:01.491, TotalRecord: 124960
+2018-06-21 11:04:45,226 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 11:03:35.558604, IsTestrun: True
+2018-06-21 11:04:56,144 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.917
+2018-06-21 11:05:19,894 - utils - INFO - Time taken to get recipes from db: 0:00:01.570, TotalRecord: 124960
+2018-06-21 11:14:54,528 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 11:14:43.814501, IsTestrun: True
+2018-06-21 11:16:20,725 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 11:16:20.723242, IsTestrun: True
+2018-06-21 11:16:27,955 - utils - INFO - Time taken to get Ingredients data from db: 0:00:07.229
+2018-06-21 11:16:28,873 - utils - INFO - Time taken to get recipes from db: 0:00:00.014, TotalRecord: 66
+2018-06-21 11:18:09,190 - utils - INFO - Time taken to get Ingredients data from db: 0:03:14.180
+2018-06-21 11:46:19,069 - utils - INFO - Time taken to get recipes from db: 0:00:01.667, TotalRecord: 124960
+2018-06-21 11:51:12,943 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 11:51:12.924020, IsTestrun: True
+2018-06-21 11:51:25,180 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.235
+2018-06-21 11:51:48,830 - utils - INFO - Time taken to get recipes from db: 0:00:01.510, TotalRecord: 124960
+2018-06-21 12:01:45,649 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:01:45.615129, IsTestrun: True
+2018-06-21 12:01:58,731 - utils - INFO - Time taken to get Ingredients data from db: 0:00:13.080
+2018-06-21 12:02:21,990 - utils - INFO - Time taken to get recipes from db: 0:00:01.496, TotalRecord: 124960
+2018-06-21 12:08:46,184 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:08:46.164779, IsTestrun: True
+2018-06-21 12:08:57,582 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.396
+2018-06-21 12:09:20,916 - utils - INFO - Time taken to get recipes from db: 0:00:01.583, TotalRecord: 124960
+2018-06-21 12:09:48,577 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:09:48.540010, IsTestrun: True
+2018-06-21 12:09:59,927 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.347
+2018-06-21 12:10:24,616 - utils - INFO - Time taken to get recipes from db: 0:00:01.653, TotalRecord: 124960
+2018-06-21 12:11:32,725 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:11:32.704983, IsTestrun: True
+2018-06-21 12:11:44,247 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.521
+2018-06-21 12:12:07,641 - utils - INFO - Time taken to get recipes from db: 0:00:01.616, TotalRecord: 124960
+2018-06-21 12:13:11,091 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:13:11.070560, IsTestrun: True
+2018-06-21 12:13:22,679 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.587
+2018-06-21 12:13:48,037 - utils - INFO - Time taken to get recipes from db: 0:00:01.579, TotalRecord: 124960
+2018-06-21 12:14:25,847 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:14:25.826708, IsTestrun: True
+2018-06-21 12:14:36,731 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.882
+2018-06-21 12:15:00,582 - utils - INFO - Time taken to get recipes from db: 0:00:01.529, TotalRecord: 124960
+2018-06-21 12:15:23,360 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:15:23.328192, IsTestrun: True
+2018-06-21 12:15:39,529 - utils - INFO - Time taken to get Ingredients data from db: 0:00:16.167
+2018-06-21 12:16:04,050 - utils - INFO - Time taken to get recipes from db: 0:00:01.545, TotalRecord: 124960
+2018-06-21 12:16:23,475 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:16:23.441922, IsTestrun: True
+2018-06-21 12:16:34,699 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.223
+2018-06-21 12:16:58,389 - utils - INFO - Time taken to get recipes from db: 0:00:01.631, TotalRecord: 124960
+2018-06-21 12:17:34,303 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:17:34.264692, IsTestrun: True
+2018-06-21 12:17:48,634 - utils - INFO - Time taken to get Ingredients data from db: 0:00:14.329
+2018-06-21 12:18:12,196 - utils - INFO - Time taken to get recipes from db: 0:00:01.544, TotalRecord: 124960
+2018-06-21 12:44:30,026 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:43:49.366516, IsTestrun: True
+2018-06-21 12:45:49,496 - utils - INFO - Time taken to get Ingredients data from db: 0:01:16.752
+2018-06-21 12:50:30,898 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:47:08.186414, IsTestrun: True
+2018-06-21 12:52:11,390 - utils - INFO - Time taken to get Ingredients data from db: 0:01:36.076
+2018-06-21 12:53:11,486 - utils - INFO - Time taken to get recipes from db: 0:00:01.645, TotalRecord: 124960
+2018-06-21 12:55:07,382 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:55:07.306679, IsTestrun: True
+2018-06-21 12:55:18,369 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.985
+2018-06-21 12:55:41,831 - utils - INFO - Time taken to get recipes from db: 0:00:01.487, TotalRecord: 124960
+2018-06-21 12:58:06,639 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 12:58:05.454492, IsTestrun: True
+2018-06-21 12:58:19,766 - utils - INFO - Time taken to get Ingredients data from db: 0:00:13.125
+2018-06-21 12:58:43,139 - utils - INFO - Time taken to get recipes from db: 0:00:01.546, TotalRecord: 124960
+2018-06-21 13:05:23,521 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 13:05:14.742447, IsTestrun: True
+2018-06-21 13:05:34,223 - utils - INFO - Time taken to get Ingredients data from db: 0:00:10.695
+2018-06-21 13:05:57,519 - utils - INFO - Time taken to get recipes from db: 0:00:01.644, TotalRecord: 124960
+2018-06-21 13:13:11,547 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 13:13:05.638373, IsTestrun: True
+2018-06-21 13:13:24,137 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.589
+2018-06-21 13:13:50,336 - utils - INFO - Time taken to get recipes from db: 0:00:01.543, TotalRecord: 124960
+2018-06-21 13:22:04,421 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 13:21:14.898721, IsTestrun: True
+2018-06-21 13:28:02,743 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 13:27:43.822737, IsTestrun: True
+2018-06-21 13:29:20,297 - utils - INFO - Time taken to get Ingredients data from db: 0:01:13.312
+2018-06-21 13:29:58,805 - utils - INFO - Time taken to get recipes from db: 0:00:01.652, TotalRecord: 124960
+2018-06-21 13:32:20,412 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 13:32:05.198487, IsTestrun: True
+2018-06-21 13:35:18,266 - utils - INFO - Time taken to get Ingredients data from db: 0:02:55.971
+2018-06-21 13:59:30,797 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 13:59:25.346366, IsTestrun: True
+2018-06-21 13:59:42,857 - utils - INFO - Time taken to get Ingredients data from db: 0:00:12.053
+2018-06-21 14:00:06,252 - utils - INFO - Time taken to get recipes from db: 0:00:01.498, TotalRecord: 124960
+2018-06-21 14:01:01,707 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 14:00:58.118777, IsTestrun: True
+2018-06-21 14:01:12,951 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.239
+2018-06-21 14:01:36,379 - utils - INFO - Time taken to get recipes from db: 0:00:01.510, TotalRecord: 124960
+2018-06-21 14:02:19,608 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 14:02:17.390378, IsTestrun: True
+2018-06-21 14:02:30,669 - utils - INFO - Time taken to get Ingredients data from db: 0:00:11.060
+2018-06-21 14:09:34,386 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 14:09:22.787124, IsTestrun: True
+2018-06-21 14:09:47,622 - utils - INFO - Time taken to get Ingredients data from db: 0:00:13.234
+2018-06-21 14:10:23,368 - utils - INFO - Time taken to get recipes from db: 0:00:01.561, TotalRecord: 124960
+2018-06-21 14:40:32,359 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 14:40:04.110714, IsTestrun: True
+2018-06-21 14:41:13,230 - utils - INFO - Time taken to get Ingredients data from db: 0:00:39.775
+2018-06-21 14:41:50,104 - utils - INFO - Time taken to get recipes from db: 0:00:01.648, TotalRecord: 124960
+2018-06-21 14:43:57,820 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 14:43:38.818779, IsTestrun: True
+2018-06-21 14:45:06,424 - utils - INFO - Time taken to get Ingredients data from db: 0:01:05.968
+2018-06-21 14:47:10,679 - utils - INFO - Time taken to get recipes from db: 0:01:04.079, TotalRecord: 124960
+2018-06-21 14:54:14,017 - utils - INFO - Started cleansing process, Starttime: 2018-06-21 14:53:46.754362, IsTestrun: True
+2018-06-21 14:55:20,199 - utils - INFO - Time taken to get Ingredients data from db: 0:01:04.547
+2018-06-21 14:57:57,138 - utils - INFO - Time taken to get recipes from db: 0:01:29.211, TotalRecord: 124960
+2018-06-22 05:56:56,914 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 05:56:30.098431, IsTestrun: True
+2018-06-22 05:59:35,870 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 05:58:37.074491, IsTestrun: True
+2018-06-22 06:02:33,211 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 06:00:18.138466, IsTestrun: True
+2018-06-22 06:05:57,356 - utils - INFO - Time taken to get Ingredients data from db: 0:03:22.515
+2018-06-22 06:10:58,835 - utils - INFO - Time taken to get recipes from db: 0:00:25.579, TotalRecord: 124960
+2018-06-22 06:15:31,870 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 06:15:25.922530, IsTestrun: True
+2018-06-22 06:15:47,755 - utils - INFO - Time taken to get Ingredients data from db: 0:00:15.882
+2018-06-22 06:16:54,895 - utils - INFO - Time taken to get recipes from db: 0:00:14.969, TotalRecord: 124960
+2018-06-22 06:18:24,457 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 06:18:24.437109, IsTestrun: True
+2018-06-22 06:18:41,238 - utils - INFO - Time taken to get Ingredients data from db: 0:00:16.780
+2018-06-22 06:19:53,495 - utils - INFO - Time taken to get recipes from db: 0:00:13.564, TotalRecord: 124960
+2018-06-22 06:22:24,291 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 06:21:21.274552, IsTestrun: True
+2018-06-22 06:23:03,365 - utils - INFO - Time taken to get Ingredients data from db: 0:00:36.635
+2018-06-22 06:24:35,151 - utils - INFO - Time taken to get recipes from db: 0:00:36.951, TotalRecord: 124960
+2018-06-22 06:27:11,162 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 06:26:43.774107, IsTestrun: True
+2018-06-22 06:27:35,703 - utils - INFO - Time taken to get Ingredients data from db: 0:00:23.096
+2018-06-22 06:29:41,188 - utils - INFO - Time taken to get recipes from db: 0:01:20.720, TotalRecord: 124960
+2018-06-22 06:57:10,432 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 06:57:10.410194, IsTestrun: True
+2018-06-22 06:57:26,494 - utils - INFO - Time taken to get Ingredients data from db: 0:00:16.031
+2018-06-22 06:58:56,457 - utils - INFO - Time taken to get recipes from db: 0:00:01.968, TotalRecord: 124960
+2018-06-22 07:02:05,851 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 07:01:33.534124, IsTestrun: True
+2018-06-22 07:02:39,187 - utils - INFO - Time taken to get Ingredients data from db: 0:00:31.760
+2018-06-22 07:11:19,762 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 07:11:19.744341, IsTestrun: True
+2018-06-22 07:14:44,517 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 07:14:44.497921, IsTestrun: True
+2018-06-22 07:15:01,141 - utils - INFO - Time taken to get Ingredients data from db: 0:00:16.623
+2018-06-22 07:15:35,450 - utils - INFO - Time taken to get recipes from db: 0:00:08.139, TotalRecord: 66
+2018-06-22 08:39:23,870 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 08:39:23.858803, IsTestrun: True
+2018-06-22 08:39:37,013 - utils - INFO - Time taken to get Ingredients data from db: 0:00:13.106
+2018-06-22 08:40:37,274 - utils - INFO - Time taken to get recipes from db: 0:00:12.932, TotalRecord: 66
+2018-06-22 08:42:52,101 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 08:42:52.088600, IsTestrun: True
+2018-06-22 08:43:05,506 - utils - INFO - Time taken to get Ingredients data from db: 0:00:13.404
+2018-06-22 08:44:13,218 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 08:44:13.206960, IsTestrun: True
+2018-06-22 08:44:32,169 - utils - INFO - Time taken to get Ingredients data from db: 0:00:18.949
+2018-06-22 08:46:30,412 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 08:46:30.398542, IsTestrun: True
+2018-06-22 08:46:43,506 - utils - INFO - Time taken to get Ingredients data from db: 0:00:13.093
+2018-06-22 08:47:00,607 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 66
+2018-06-22 08:47:49,574 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 08:47:49.561963, IsTestrun: True
+2018-06-22 08:48:02,864 - utils - INFO - Time taken to get Ingredients data from db: 0:00:13.288
+2018-06-22 08:48:19,840 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 66
+2018-06-22 09:47:38,461 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 09:47:38.449871, IsTestrun: True
+2018-06-22 09:47:52,567 - utils - INFO - Time taken to get Ingredients data from db: 0:00:14.053
+2018-06-22 09:48:09,904 - utils - INFO - Time taken to get recipes from db: 0:00:00.009, TotalRecord: 66
+2018-06-22 11:04:59,779 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 10:57:13.794473, IsTestrun: True
+2018-06-22 11:20:02,906 - utils - INFO - Time taken to get Ingredients data from db: 0:15:01.207
+2018-06-22 11:28:35,365 - utils - INFO - Time taken to get recipes from db: 0:00:00.017, TotalRecord: 66
+2018-06-22 11:28:52,282 - utils - INFO - Total Recipes: 66, Total Ingredients: 0, DeletedCount: 0, InsertedCount: 0
+2018-06-22 11:28:52,307 - utils - INFO - Time taken for script to complete: 0:31:38.513173
+2018-06-22 11:30:14,045 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 11:30:14.026134, IsTestrun: True
+2018-06-22 11:30:29,922 - utils - INFO - Time taken to get Ingredients data from db: 0:00:15.875
+2018-06-22 11:30:53,171 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 66
+2018-06-22 11:31:09,647 - utils - INFO - Total Recipes: 66, Total Ingredients: 0, DeletedCount: 0, InsertedCount: 0
+2018-06-22 11:31:09,649 - utils - INFO - Time taken for script to complete: 0:00:55.623638
+2018-06-22 11:43:26,491 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 11:42:56.166456, IsTestrun: True
+2018-06-22 11:43:42,043 - utils - INFO - Time taken to get Ingredients data from db: 0:00:15.550
+2018-06-22 11:44:07,229 - utils - INFO - Time taken to get recipes from db: 0:00:00.000, TotalRecord: 66
+2018-06-22 12:14:17,864 - utils - INFO - Started cleansing process, Starttime: 2018-06-22 11:55:31.930465, IsTestrun: True
+2018-06-22 12:22:56,118 - utils - INFO - Time taken to get Ingredients data from db: 0:08:36.703
+2018-06-22 12:25:23,538 - utils - INFO - Time taken to get recipes from db: 0:00:05.451, TotalRecord: 66
+2018-06-25 05:57:43,685 - utils - INFO - Started cleansing process, Starttime: 2018-06-25 05:42:59.218652, IsTestrun: True
+2018-06-25 06:09:55,609 - utils - INFO - Started cleansing process, Starttime: 2018-06-25 06:03:21.224863, IsTestrun: True
+2018-06-25 06:27:46,518 - utils - INFO - Started cleansing process, Starttime: 2018-06-25 06:27:31.221084, IsTestrun: True
+2018-06-25 06:34:04,921 - utils - INFO - Time taken to get Ingredients data from db: 0:06:17.687
+2018-06-27 05:46:55,423 - utils - INFO - Started cleansing process, Starttime: 2018-06-27 05:46:55.414140, IsTestrun: True
+2018-06-27 05:47:04,674 - utils - INFO - Time taken to get Ingredients data from db: 0:00:09.202
+2018-06-27 05:47:05,610 - utils - INFO - Time taken to get recipes from db: 0:00:00.013, TotalRecord: 67

@@ -1,0 +1,32 @@
+2018-06-18 12:09:41,083 - utils - INFO - Started process, Starttime: 2018-06-18 12:09:41.083605
+2018-06-18 12:09:43,867 - utils - INFO - Time taken to get recipes from db: 0:00:02.781, TotalRecord: 58000
+2018-06-18 12:10:09,351 - utils - INFO - Total Records: 58000, Records Parsed: 56946, Extracted Records: 1000
+2018-06-18 12:10:09,365 - utils - INFO - Total Records: 58000, Records Parsed: 55945, Extracted Records: 2000
+2018-06-18 12:10:09,379 - utils - INFO - Total Records: 58000, Records Parsed: 54943, Extracted Records: 3000
+2018-06-18 12:10:09,391 - utils - INFO - Total Records: 58000, Records Parsed: 53943, Extracted Records: 4000
+2018-06-18 12:10:09,404 - utils - INFO - Total Records: 58000, Records Parsed: 52939, Extracted Records: 5000
+2018-06-18 12:10:31,961 - utils - INFO - Total Records: 58000, Records Parsed: 51939, Extracted Records: 6000
+2018-06-18 12:10:31,977 - utils - INFO - Total Records: 58000, Records Parsed: 50939, Extracted Records: 7000
+2018-06-18 12:10:31,994 - utils - INFO - Total Records: 58000, Records Parsed: 49939, Extracted Records: 8000
+2018-06-18 12:10:32,008 - utils - INFO - Total Records: 58000, Records Parsed: 48938, Extracted Records: 9000
+2018-06-18 12:10:32,022 - utils - INFO - Total Records: 58000, Records Parsed: 47938, Extracted Records: 10000
+2018-06-18 12:10:53,534 - utils - INFO - Total Records: 58000, Records Parsed: 46938, Extracted Records: 11000
+2018-06-18 12:10:53,548 - utils - INFO - Total Records: 58000, Records Parsed: 45938, Extracted Records: 12000
+2018-06-18 12:10:53,564 - utils - INFO - Total Records: 58000, Records Parsed: 44938, Extracted Records: 13000
+2018-06-18 12:10:53,586 - utils - INFO - Total Records: 58000, Records Parsed: 43938, Extracted Records: 14000
+2018-06-18 12:11:25,563 - utils - INFO - Total Records: 58000, Records Parsed: 42937, Extracted Records: 15000
+2018-06-18 12:11:25,593 - utils - INFO - Total Records: 58000, Records Parsed: 41937, Extracted Records: 16000
+2018-06-18 12:11:43,328 - utils - INFO - Total Records: 58000, Records Parsed: 40937, Extracted Records: 17000
+2018-06-18 12:11:43,356 - utils - INFO - Total Records: 58000, Records Parsed: 39937, Extracted Records: 18000
+2018-06-18 12:11:43,382 - utils - INFO - Total Records: 58000, Records Parsed: 38937, Extracted Records: 19000
+2018-06-18 12:12:01,335 - utils - INFO - Total Records: 58000, Records Parsed: 37937, Extracted Records: 20000
+2018-06-18 12:12:01,360 - utils - INFO - Total Records: 58000, Records Parsed: 36937, Extracted Records: 21000
+2018-06-18 12:12:01,390 - utils - INFO - Total Records: 58000, Records Parsed: 35937, Extracted Records: 22000
+2018-06-18 12:12:21,087 - utils - INFO - Total Records: 58000, Records Parsed: 34937, Extracted Records: 23000
+2018-06-18 12:12:21,110 - utils - INFO - Total Records: 58000, Records Parsed: 33937, Extracted Records: 24000
+2018-06-18 12:12:21,133 - utils - INFO - Total Records: 58000, Records Parsed: 32937, Extracted Records: 25000
+2018-06-18 12:12:39,709 - utils - INFO - Total Records: 58000, Records Parsed: 31937, Extracted Records: 26000
+2018-06-18 12:12:39,740 - utils - INFO - Total Records: 58000, Records Parsed: 30937, Extracted Records: 27000
+2018-06-18 12:12:58,254 - utils - INFO - Total Records: 58000, Records Parsed: 29937, Extracted Records: 28000
+2018-06-18 12:12:58,285 - utils - INFO - Total Records: 58000, Records Parsed: 28937, Extracted Records: 29000
+2018-06-18 12:12:58,315 - utils - INFO - Total Records: 58000, Records Parsed: 27937, Extracted Records: 30000
